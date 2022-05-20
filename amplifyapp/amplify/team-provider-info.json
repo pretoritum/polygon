@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-polygon1-staging-152606-authRole",
+      "UnauthRoleArn": "arn:aws:iam::509666197347:role/amplify-polygon1-staging-152606-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::509666197347:role/amplify-polygon1-staging-152606-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-polygon1-staging-152606-deployment",
+      "UnauthRoleName": "amplify-polygon1-staging-152606-unauthRole",
+      "StackName": "amplify-polygon1-staging-152606",
+      "StackId": "arn:aws:cloudformation:eu-west-1:509666197347:stack/amplify-polygon1-staging-152606/2b3b4d20-d851-11ec-afae-060c52f0f3e1",
+      "AmplifyAppId": "d3tkgn5v6459cb"
+    },
+    "categories": {
+      "auth": {
+        "polygon19b5422d7": {}
+      }
+    }
+  }
+}
